@@ -1,6 +1,4 @@
 - 👋 Hi, I’m doi @nudoi
-- 👀 I’m interested in IoT system.
-- 🌱 I’m currently learning data science.
 
 <!---
 nudoi/nudoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
